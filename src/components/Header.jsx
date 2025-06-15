@@ -12,13 +12,13 @@ const Header = () => {
   return (
     <header className="header">
       <div className="header-content fade-in">
-        <h1>결혼합니다</h1>
+        <h1><strong>결혼합니다</strong></h1>
         <div className="couple-names">
-          <span>홍승완</span>
+          <span><strong>홍승완</strong></span>
           <span className="ampersand">&</span>
-          <span>최보윤</span>
+          <span><strong>최보윤</strong></span>
         </div>
-        <p className="wedding-date">2025. 06. 29 SUN AM 11:30</p>
+        <p className="wedding-date"><strong>2025. 06. 29 SUN AM 11:30</strong></p>
       </div>
       <div className="scroll-indicator" onClick={scrollToIntro}>
         ↓

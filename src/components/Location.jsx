@@ -8,13 +8,13 @@ const Location = () => {
 
   return (
     <section className="section location fade-in" id="location">
-      <h2>오시는 길</h2>
+      <h2><strong>오시는 길</strong></h2>
       <div className="divider"></div>
       <div className="venue-info">
-        <p className="venue-title">메리빌리아 셀레스메리홀</p>
+        <p className="venue-title"><strong>메리빌리아 셀레스메리홀</strong></p>
         <p>인천 연수구 송도동 170-1</p>
-        <p className="venue-date">2025. 06. 29 SUN AM 11:30</p>
-        <p className="venue-tel">032-864-5500</p>
+        <p className="venue-date"><strong>2025. 06. 29 SUN AM 11:30</strong></p>
+        <p className="venue-tel"><strong>032-864-5500</strong></p>
       </div>
       
       <div className="map-container" onClick={openMap}>

@@ -4,7 +4,8 @@ import './Intro.css';
 const Intro = () => {
   return (
     <section className="section intro fade-in" id="intro">
-      <h2>the marriage of SEUNGWAN x BOYUN</h2>
+      <h2>the marriage of</h2>
+      <h2><strong>SEUNGWAN x BOYUN</strong></h2>
       <div className="divider"></div>
       <p className="intro-text">
         아직 모든 게 서툰 두 젊은이가<br/>
@@ -20,13 +21,13 @@ const Intro = () => {
       
       <div className="intro-details">
         <div className="intro-detail">
-          <h3>일시</h3>
-          <p>2025. 06. 29 SUN</p>
+          <h3><strong>일시</strong></h3>
+          <p><strong>2025. 06. 29 SUN</strong></p>
           <p>AM 11:30</p>
         </div>
         <div className="intro-detail">
-          <h3>장소</h3>
-          <p>메리빌리아 셀레스메리홀</p>
+          <h3><strong>장소</strong></h3>
+          <p><strong>메리빌리아 셀레스메리홀</strong></p>
           <p>인천 연수구 송도동 170-1</p>
         </div>
       </div>
@@ -38,11 +39,11 @@ const Intro = () => {
       <div className="family-info">
         <div className="family">
           <p className="parent-names">홍광기 · 김희순 의 장남</p>
-          <p className="child-name">승완</p>
+          <p className="child-name"><strong>승완</strong></p>
         </div>
         <div className="family">
           <p className="parent-names">최태준 · 박지유 의 장녀</p>
-          <p className="child-name">보윤</p>
+          <p className="child-name"><strong>보윤</strong></p>
         </div>
       </div>
     </section>
