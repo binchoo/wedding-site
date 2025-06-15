@@ -8,28 +8,28 @@ const Guestbook = () => {
       name: '김지영',
       date: '2023년 9월 10일',
       message: '축하합니다! 두 분의 앞날에 행복이 가득하길 바랍니다. 특별한 날을 함께 축하할 수 있어 기쁩니다!',
-      avatar: '/images/avatar1.jpg'
+      avatar: './images/avatar1.jpg'
     },
     {
       id: 2,
       name: '박민수',
       date: '2023년 9월 12일',
       message: '두 분의 사랑이 평생 지속되길 바랍니다. 결혼을 진심으로 축하드립니다!',
-      avatar: '/images/avatar2.jpg'
+      avatar: './images/avatar2.jpg'
     },
     {
       id: 3,
       name: '이하은',
       date: '2023년 9월 15일',
       message: '오랜 친구의 결혼을 축하합니다. 앞으로도 지금처럼 서로 아끼고 사랑하며 행복하게 사세요!',
-      avatar: '/images/avatar3.jpg'
+      avatar: './images/avatar3.jpg'
     },
     {
       id: 4,
       name: '최준호',
       date: '2023년 9월 18일',
       message: '결혼 정말 축하드립니다! 두 분의 새 출발을 진심으로 축하하며, 항상 건강하고 행복한 가정 이루시길 바랍니다.',
-      avatar: '/images/avatar4.jpg'
+      avatar: './images/avatar4.jpg'
     }
   ];
   
@@ -62,7 +62,7 @@ const Guestbook = () => {
         day: 'numeric'
       }),
       message: newComment.message,
-      avatar: '/images/avatar-default.jpg'
+      avatar: './images/avatar-default.jpg'
     };
     
     setComments(prev => [comment, ...prev]);

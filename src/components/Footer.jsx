@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-date">2025. 06. 29 SUN AM 11:30</div>
         
         <div className="flower-divider">
-          <img src="/images/flower-divider.png" alt="꽃 디바이더" />
+          <img src="./images/flower-divider.png" alt="꽃 디바이더" />
         </div>
         
         <div className="venue-info">

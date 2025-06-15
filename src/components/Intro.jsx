@@ -15,7 +15,7 @@ const Intro = () => {
       </p>
       
       <div className="flower-divider">
-        <img src="/images/flower-divider.png" alt="꽃 디바이더" />
+        <img src="./images/flower-divider.png" alt="꽃 디바이더" />
       </div>
       
       <div className="intro-details">
@@ -32,7 +32,7 @@ const Intro = () => {
       </div>
       
       <div className="flower-divider">
-        <img src="/images/flower-divider.png" alt="꽃 디바이더" />
+        <img src="./images/flower-divider.png" alt="꽃 디바이더" />
       </div>
       
       <div className="family-info">

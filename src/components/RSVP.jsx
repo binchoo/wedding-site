@@ -34,7 +34,7 @@ const RSVP = () => {
         <div className="divider"></div>
         <div className="rsvp-success">
           <div className="success-image">
-            <img src="/images/check.png" alt="성공" />
+            <img src="./images/check.png" alt="성공" />
           </div>
           <h3>감사합니다!</h3>
           <p>참석 여부가 성공적으로 등록되었습니다.</p>
