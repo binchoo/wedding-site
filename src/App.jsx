@@ -13,7 +13,7 @@ function App() {
 
   useEffect(() => {
     // 문서 제목 한국어로 설정
-    document.title = '청첩장 - SEUNGWAN & BOYUN';
+    document.title = '청첩장 - 최태윤의 딸 최보윤의 결혼식';
     
     // 로딩 상태 처리
     const timer = setTimeout(() => {
