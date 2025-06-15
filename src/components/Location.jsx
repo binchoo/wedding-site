@@ -18,7 +18,7 @@ const Location = () => {
       </div>
       
       <div className="map-container" onClick={openMap}>
-        <img src="/images/map.png" alt="지도" className="map-image" />
+        <img src="./images/map.png" alt="지도" className="map-image" />
       </div>
     </section>
   );
