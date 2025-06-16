@@ -12,11 +12,7 @@ const Footer = () => {
           <img src="./images/flower-divider.png" alt="꽃 디바이더" />
         </div>
         
-        <div className="venue-info">
-          <p>메리빌리아 셀레스메리홀</p>
-          <p>인천 연수구 송도동 170-1</p>
-          <p>032-864-5500</p>
-        </div>
+
         
         <div className="family-info">
           <div className="family-row">
