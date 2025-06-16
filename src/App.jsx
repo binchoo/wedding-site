@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Header from './components/Header';
 import Intro from './components/Intro';
 import Gallery from './components/Gallery';
-import Location from './components/Location';
+import SpecialMessage from './components/SpecialMessage';
 import Remittance from './components/Remittance';
 import Footer from './components/Footer';
 import './App.css';
@@ -78,7 +78,7 @@ function App() {
         <main className="container">
           <Intro />
           <Gallery />
-          <Location />
+          <SpecialMessage />
           <Remittance />
         </main>
         <Footer />
