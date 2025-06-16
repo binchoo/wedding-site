@@ -8,11 +8,14 @@ const Intro = () => {
       <h2><strong>SEUNGWAN x BOYUN</strong></h2>
       <div className="divider"></div>
       <p className="intro-text">
-        아직 모든 게 서툰 두 젊은이가<br/>
-        사랑이라는 이름으로 연을 맺고자 합니다.<br/><br/>
-        따스한 햇살처럼 밝고 건강하게 살아갈<br/>
-        앞날을 위해 부디 오셔서 축복과 지혜를 보내주시면<br/>
-        더없는 기쁨이자 감사로 여기며 살아가겠습니다.
+        저희딸 보윤이가 평생을 함께할 귀한 사람을 만나 결혼 이라는 인연을 맺습니다.<br/>
+        함께 모시고 싶은 마음 당연하지만<br/>
+        간소한 결혼을 고집하는<br/> 
+        딸의 마음을 따라 조용한 예식을 올리고자 합니다.<br/>
+        넓은 사랑으로 축복과 응원을 부탁 드립니다.<br/><br/>
+        ※ 화환등 선물을 보내실까 부담되어 인천 지역 예식장이라는 사실만을 알려드립니다.<br/><br/>
+        변함없이 여러분의 대소사에<br/>
+        꼭 참석 하겠습니다.
       </p>
       
       <div className="flower-divider">
@@ -24,11 +27,6 @@ const Intro = () => {
           <h3><strong>일시</strong></h3>
           <p><strong>2025. 06. 29 SUN</strong></p>
           <p>AM 11:30</p>
-        </div>
-        <div className="intro-detail">
-          <h3><strong>장소</strong></h3>
-          <p><strong>메리빌리아 셀레스메리홀</strong></p>
-          <p>인천 연수구 송도동 170-1</p>
         </div>
       </div>
       
